@@ -1,4 +1,4 @@
-##  Frontend Development (CLOWNS)
+##  Frontend Development ( We aren't CLOWNS)
 
 Theory and Solving Great Frontend Questions:
 
