@@ -1,4 +1,4 @@
 ##  Frontend Development ( We aren't CLOWNS)
 
-Theory and Solving Great Frontend Questions:
+Theory(Can be picked up from multiple resources) and Solving Great Frontend Questions:
 
